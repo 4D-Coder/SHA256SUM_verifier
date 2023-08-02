@@ -71,19 +71,25 @@
     <p>Clone the repo:</p>
     <code>git clone git@github.com:4D-Coder/SHA256SUM_verifier.git</code>
   </li>
+  <br>
   <li>
-    <p>Once you have the tool locally, add your iso to the root directory of the project</p>
+    Once you have the tool locally, add your iso file to the root directory of the project.
   </li>
+  <br>
   <li>
       Included with the cloned project is a <code>256SHASUMS.txt</code> file containing hashes for the most recent Debian live images at the time of this project's creation.
     <ul>
-      <li>Ensure that you have the most relevant and recent <code>256SHASUMS.txt</code> for your image from the <a href="https://cdimage.debian.org/images/">Debian</a> official site!</li>
+      <li>
+        Ensure that you have the most relevant and recent <code>256SHASUMS.txt</code> for your image from the <a href="https://cdimage.debian.org/images/">Debian</a> official site!
+      </li>
     </ul>
   </li>
+  <br>
   <li>
-    Calculate your SHA-256 hash using your utility of choice so that you have your 256-bit code and iso name like so:
+    <p>Calculate your SHA-256 hash using your utility of choice so that you have your 256-bit code and iso name like so:</p>
     <code>9e1daaf6fc3fb237815e3cde436a99fc41c96a17e6d0bb88cd7f4210f98a7abb  debian-live-12.1.0-amd64-cinnamon.iso</code>
   </li>
+  <br>
   <li>
     Open up your terminal, <code>cd</code> into the project root directory, and run <code>run.py</code> to start the program! 
   </li>
@@ -93,3 +99,11 @@
 
 <!-- Contributors -->
 <h2 id="contributors">Contributors</h2>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/4D-Coder"><img src="https://avatars.githubusercontent.com/u/89714398?v=4" width="100px;" alt=""/><br /><sub><b>Antonio King Hunt</b></sub></a><br />
+    </td>
+
+</table>
+<p align="right">(<a href="#top">back to top</a>)</p>

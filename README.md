@@ -22,12 +22,7 @@
     <li><a href="#functionality">Functionality</a></li>
     <li><a href="#learning_goals">Learning Goals</a></li>
     <li><a href="#stack">Stack</a></li>
-    <li><a href="#thought_process">Thought Process</a></li>
-    <li><a href="#schema">Schema Diagram</a></li>
-    <li><a href="#acheivements">Testing</a></li>
-    <li><a href="#endpoints">Endpoints</a></li>
-    <li><a href="#set-up">Setup</a></li>
-    <li><a href="#contact">Contributor</a></li>
+    <li><a href="#contributors">Contributors</a></li>
   </ol>
 
 <!-- INSPIRATION -->
@@ -94,5 +89,7 @@
   </li>
 </ol>
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Contributors -->
+<h2 id="contributors">Contributors</h2>

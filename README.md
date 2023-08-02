@@ -41,7 +41,7 @@
     <li>Introduction to built-in RegEx functions in Python</li>
     <li>Practice understanding of IO procedure</li>
     <li>Utilize a Python debugger</li>
-    <li>Build a tool I can use for at home projects</li>
+    <li>Build a tool that I can use for at home projects</li>
   </ul>
 
 <p align="right">(<a href="#top">back to top</a>)</p>

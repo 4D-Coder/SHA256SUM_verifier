@@ -54,11 +54,14 @@
 <h3><strong>Building<strong></h3>
   
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)
-![Git](https://img.shields.io/badge/git-4B0082.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <h3><strong>Debugging<strong></h3>
 
 ![pbd++](https://img.shields.io/badge/pbd++-CC342D.svg?style=for-the-badge&logo=Pry&logoColor=white)
+
+<h3><strong>Versioning<strong></h3>
+  
+![Git](https://img.shields.io/badge/git-4B0082.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

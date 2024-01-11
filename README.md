@@ -6,7 +6,7 @@
 <div align="center">
 <h1>Debian SHA256SUM Verifier V1</h1>
   <p align="center">
-    <img src="https://blog.ironlinux.com.br/wp-content/uploads/2023/06/sha256sum.png" alt="SHA256SUM Verifier V1" width="500px">
+    <img src="https://shapeshed.com/unix-sha1sum/images/hero_hu9721cd899e5ce367f375e3e80fabbabf_78909_1600x0_resize_q80_h2_lanczos_3.webp" alt="SHA256SUM Verifier V1" width="500px">
   </p>
 </div>
 <br>
